@@ -1,7 +1,7 @@
-<h2 align="centre">Bot duniya Music Player</h2>
+<h2 align="centre">crazy op player</h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/55202a2a5dd038bdbebea.jpg">
+  <img src="https://te.legra.ph/file/cce753ca1d20cb8f5a6c1.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
@@ -46,10 +46,9 @@
 - PyTgCalls
 
 #### Special Credits
-- [Subhanahu](https://t.me/Shubhanshutya)
-- [Sammy](https://t.me/OpFriDay)
-- [Abhi](https://t.me/VEXERA_MUSICS)
-- [Rock](https://t.me/ROCKSTAR_XDD)
+- [gaurav](https://t.me/crazy_inferno_xd)
+- [JAY](https://t.me/BAJRANGDAL_OP_KING)
+
 
 ### Support & Updates 
 <a href="https://t.me/PmPermit"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/BotDuniya"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
